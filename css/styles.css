@@ -1,0 +1,110 @@
+html{
+    background-color: lightgrey;
+}
+
+article{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    border-color: black;
+    background-color: white;
+    padding: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 0;
+}
+
+nav{
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+
+header{
+    padding: 0;
+    margin:0;
+}
+
+h1{
+    text-align: center;
+    color:black;
+    font-family: Bodoni MT;
+    font-size: 50px;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+blockquote{
+    font-family: Candara;
+    text-align: center;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+.header-img{
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+
+
+figcaption{
+    font-size: small;
+    padding: 2px;
+}
+
+img {
+    padding: 20px;
+}
+
+
+.things-to-do{
+    padding: 25px;
+}
+
+h2{
+    color: #485CC8;
+    font-family: Bahnschrift;
+}
+
+figure, figcaption {
+    text-align: center;
+}
+
+blockquote {
+    font-family: Bahnschrift;
+}
+
+#references{
+    background-color: #EAEEFF;
+    padding: 15px;
+    font-family: Gadugi;
+    font-size: small;
+}
+
+p{
+    font-family: Gadugi;
+    text-align: justify; 
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+#list-style > li{
+    font-family: Gadugi;
+    font-size: large;
+    font-weight: bold;
+}
+
+#list-style-2 > li {
+    font-family: Gadugi;
+    text-align: justify; 
+}
+
+#list-of-references{
+    padding-left: 40px;
+    
+}
